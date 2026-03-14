@@ -1,2 +1,2 @@
 # Token
-sample
+Tradable digital asset
